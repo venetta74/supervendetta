@@ -1,5 +1,5 @@
 const downloadBtn = document.querySelector(".download-btn");
-const fileLink = "https://docs.google.com/uc?export=download&id=13SSN6gtEShcv6CtAn06BLiFbmkfuCYZu&confirm=t&uuid=73813728-da43-4e95-bb82-33c2bd32c70f&at=AGIUDvqMFLA--mN4PfeTP3QeAqXz:1694320115259";
+const fileLink = "https://docs.google.com/uc?export=download&id=13SSN6gtEShcv6CtAn06BLiFbmkfuCYZu&confirm=t&uuid=73813728-da43-4e95-bb82-33c2bd32c70f&at=AGIUDvqTa_delZ_52PAMZevcY1LR:1694349890891";
 
 const initTimer = () => {
     if(downloadBtn.classList.contains("disable-timer")) {
