@@ -1,5 +1,5 @@
 const downloadBtn = document.querySelector(".download-btn");
-const fileLink = "https://download1523.mediafire.com/7jv905w6t0cgVuiDisVMcXieTkpHHahYlatElL96Py2YFCwl5qmywdyfkW4jKJC0zU9OFRem2sK6F6LnNBCStnPt309_-h81BS-O4xVFAecGMjh7h8CpIGwQesRN4sRn-5WLwiePkYwRcMcTnahYkLHkHir5_t7TB8YqUAn7umh6/2fqvx7wdrcdrtzc/%D8%B3%D9%88%D8%A8%D8%B1+%D9%81%D8%A7%D9%86%D8%AF%D9%8A%D8%AA%D8%A7+%282%29.apk";
+const fileLink = "https://download1523.mediafire.com/aze3vvmuxfzg4W2mEs7tqnE33VlIqAjvNyxphrs4C-2x3VlsJfxqI0n0lWR973XcGfy4hmiLdD_FUkqDL9HkvZdUFGPqMMr_5cZNSCJ7zLAzkAA6tFibTSRQ10WKHd47CTubV39EgITNN-we7ci8P1oe_51i6Fy5H-dhAWIadH8/sdvcthnm8u6lg73/%D8%B3%D9%88%D8%A8%D8%B1+%D9%81%D8%A7%D9%86%D8%AF%D9%8A%D8%AA%D8%A7+%282%29.apk";
 
 const initTimer = () => {
     if(downloadBtn.classList.contains("disable-timer")) {
