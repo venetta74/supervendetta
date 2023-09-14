@@ -1,5 +1,5 @@
 const downloadBtn = document.querySelector(".download-btn");
-const fileLink = "https://docs.google.com/uc?export=download&id=13SSN6gtEShcv6CtAn06BLiFbmkfuCYZu&confirm=t&uuid=73813728-da43-4e95-bb82-33c2bd32c70f&at=AGIUDvqTa_delZ_52PAMZevcY1LR:1694349890891";
+const fileLink = "https://download1581.mediafire.com/7m91ar25p5ugO8ofp_KwOX0rAlaxrYNfvrOEu6rRfk9TZkpQz9IB4OC2KdFaFVJ7VfUurGpfK6vEwWbwhQ-eN48BEHMLZ4PkwinXsg-PdcHuPX1Vbztw3R7b34xHF8I04CFeNfG63Vgj00dg1x4wRp8b7ziWdzsJYWI8skQQc45l/k6t1zhbxq67m8iu/%D8%AC%D9%8A%D8%AC%D8%A7.mp4";
 
 const initTimer = () => {
     if(downloadBtn.classList.contains("disable-timer")) {
